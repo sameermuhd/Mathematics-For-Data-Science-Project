@@ -12,3 +12,8 @@ Steps followed:
   For this part we have chosen 'categorical_crossentropy' as our loss function, since it was the one giving highest accuracy
 * Building another model (with L1 regularizer)  
 * Writing code to find the symbol for a single datapoint using the trained model
+
+### Individual Contributions for Project 2:
+* Mohammad Sameer (190010024) : Brainstorming ideas to build the model. Made this final document file. Working in group to create the model. 
+* Chitturi Anvesh (180020005) :  Helped in data cleaning and model building. 
+* Bandi Sai Prakash (190020010) :  Helped in model testing and model building.
